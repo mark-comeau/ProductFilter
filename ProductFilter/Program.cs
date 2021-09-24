@@ -205,7 +205,7 @@ namespace ProductFilter
 			await productFilterCollection.InsertManyAsync(productFilters);
 
 			var productCollection = db.GetCollection<Product>(ProductCollection.Name);
-			int count = 1000;
+			int count = 5;
 			int batchSize = 1000;
 			for (int i = 0; i < count; i++)
 			{
