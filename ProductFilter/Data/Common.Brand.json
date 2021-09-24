@@ -1,0 +1,71 @@
+[{
+  "_id": "0_1",
+  "DocType": 0,
+  "Code": "BR1",
+  "Description": "Brand 1",
+  "Status": 0,
+  "IsUserDefined": false,
+  "Note": "This is Brand 1",
+  "Tags": [
+    "Doors",
+    "Frames"
+  ]
+},{
+  "_id": "0_2",
+  "DocType": 0,
+  "Code": "BR2",
+  "Description": "Brand 2",
+  "Status": 0,
+  "IsUserDefined": false,
+  "Note": "This is Brand 2",
+  "Tags": [
+    "Hardware"
+  ]
+},{
+  "_id": "0_3",
+  "DocType": 0,
+  "Code": "BR3",
+  "Description": "Brand 3",
+  "Status": 0,
+  "IsUserDefined": false,
+  "Note": "This is Brand 3",
+  "Tags": [
+    "Europe"
+  ]
+},{
+  "_id": "0_4",
+  "DocType": 0,
+  "Code": "BR4",
+  "Description": "Brand 4",
+  "Status": 0,
+  "IsUserDefined": false,
+  "Note": "This is Brand 4",
+  "Tags": [
+    "North America"
+  ]
+},{
+  "_id": "0_5",
+  "DocType": 0,
+  "Code": "BR5",
+  "Description": "Brand 5",
+  "Status": 1,
+  "IsUserDefined": false,
+  "Note": "This is Brand 5 is inactive",
+  "Tags": [
+    "Canada",
+    "USA"
+  ]
+},{
+  "_id": "0U_1",
+  "DocType": 0,
+  "Code": "BRU1",
+  "Description": "User Brand 1",
+  "Status": 0,
+  "IsUserDefined": true,
+  "Note": "This is a user defined Brand",
+  "Tags": [
+    "Doors",
+    "Frames",
+    "Hardware"
+  ]
+}]

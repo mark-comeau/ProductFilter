@@ -1,0 +1,53 @@
+[{
+  "_id": "1_1",
+  "DocType": 1,
+  "Code": "PC1",
+  "Description": "Product Category 1",
+  "Status": 0,
+  "IsUserDefined": false,
+  "Note": "This is Product Category 1"
+},{
+  "_id": "1_2",
+  "DocType": 1,
+  "Code": "PC2",
+  "Description": "Product Category 2",
+  "Status": 0,
+  "IsUserDefined": false,
+  "Note": "This is Product Category 2",
+  "Tags": [
+    "Key",
+    "Lock"
+  ]
+},{
+  "_id": "1_3",
+  "DocType": 1,
+  "Code": "PC3",
+  "Description": "Product Category 3",
+  "Status": 0,
+  "IsUserDefined": false,
+  "Tags": [
+    "Closer",
+    "Key",
+    "Lock"
+  ]
+},{
+  "_id": "1_4",
+  "DocType": 1,
+  "Code": "PC4",
+  "Description": "Product Category 4",
+  "Status": 1,
+  "IsUserDefined": false,
+  "Note": "Product Category 4 is inactive"
+},{
+  "_id": "1U_1",
+  "DocType": 1,
+  "Code": "PCU1",
+  "Description": "User Product Category",
+  "Status": 0,
+  "IsUserDefined": true,
+  "Note": "User Defined Product Category 1",
+  "Tags": [
+    "Closer",
+    "Key"
+  ]
+}]
